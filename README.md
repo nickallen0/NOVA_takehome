@@ -1,7 +1,9 @@
 ![header-seedlings](https://github.com/nickallen0/NOVA_takehome/assets/45595516/4cf3dfed-db99-42f3-b219-875d494e8ce1)
 # NOVA Deep Learning seedling detector 🔎🌲🗺️
+<img width="212" alt="UAV-map-locations" src="https://github.com/nickallen0/NOVA_takehome/assets/45595516/618cb796-2c15-4140-ac4e-c45c9aff7d45">
+
 Creating and testing YOLO seedling detectors for UAV imagery, using different training data.
-Made by Nicholas Allen for NOVA summer course in As, Norway 2023.
+Made by Nicholas Allen for NOVA summer course in As, Norway 2023. 
 
 # Models 🕵️🍑
 ![banner-yolov8](https://github.com/nickallen0/NOVA_takehome/assets/45595516/f164222e-d3d1-4b14-bb36-0e0493d826d4)
